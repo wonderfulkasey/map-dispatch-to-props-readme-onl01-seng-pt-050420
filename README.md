@@ -3,8 +3,14 @@
 ## Objectives
 
 - Write functions that connect Redux actions to component events
+- 
+
+
+
 
 ### Introduction
+
+
 
 In the last lessons, we learned that `mapStateToProps()` separates
 concerns. We no longer have to reference the store inside our component when
